@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: CualDocs
+        psr4_prefix: CualDocs
+        src_path: app
