@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://github.com/cluco91/JAVA_WINAMP/blob/master/music.png)
+![Image of Yaktocat](https://github.com/cluco91/LARAVEL_CUALDOC/blob/master/doctor.png)
 
 # LARAVEL_CUALDOC
 
