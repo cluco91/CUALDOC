@@ -2,4 +2,4 @@
 
 # LARAVEL_CUALDOC
 
-Sistema de Mantencion de Portal de opiniones sobre Medicos desarrollado en Laravel 5.*
+- Sistema de Mantencion de Portal de opiniones sobre Medicos desarrollado en Laravel 5.*
